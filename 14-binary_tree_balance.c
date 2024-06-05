@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_height_y - Gets the height of a binary tree
- * @tree - Pointer to the root of the tree
+ * @tree: Pointer to the root of the tree
  *
  * Return: Height of tree or 0
  */
